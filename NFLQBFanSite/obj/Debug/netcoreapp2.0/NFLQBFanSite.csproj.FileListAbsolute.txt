@@ -1,0 +1,11 @@
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\bin\Debug\netcoreapp2.0\NFLQBFanSite.deps.json
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\bin\Debug\netcoreapp2.0\NFLQBFanSite.runtimeconfig.json
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\bin\Debug\netcoreapp2.0\NFLQBFanSite.runtimeconfig.dev.json
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\bin\Debug\netcoreapp2.0\NFLQBFanSite.dll
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\bin\Debug\netcoreapp2.0\NFLQBFanSite.pdb
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\obj\Debug\netcoreapp2.0\NFLQBFanSite.csprojAssemblyReference.cache
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\obj\Debug\netcoreapp2.0\NFLQBFanSite.csproj.CoreCompileInputs.cache
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\obj\Debug\netcoreapp2.0\NFLQBFanSite.AssemblyInfoInputs.cache
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\obj\Debug\netcoreapp2.0\NFLQBFanSite.AssemblyInfo.cs
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\obj\Debug\netcoreapp2.0\NFLQBFanSite.dll
+C:\Users\Trevor Uehlin\Documents\Current Classes\CS295N Web Development 1 ASP.Net(Practice)\NFLQBFanSite\NFLQBFanSite\obj\Debug\netcoreapp2.0\NFLQBFanSite.pdb

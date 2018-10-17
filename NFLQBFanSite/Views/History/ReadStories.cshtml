@@ -1,0 +1,14 @@
+﻿@model List<Submission>
+
+<h1>This is where you can read submitted stories</h1>
+@foreach(Submission s in Model)
+{
+    @:<b>Submission Date: </b>@s.SubmissionDate<br />
+    @:<b>Submitted By: </b>@s.Authors[0].Name<br />
+    @:<b>Favorite QB: </b>@s.Authors[0].FavQB<br />
+    @:<b>Favorite NFL Team: </b>@s.Authors[0].FavTeam<br />
+    @:<b>Title of the Story: </b>@s.Title<br />
+    @:<b>Story Submission:</b><br />@s.Story<br />
+    <button asp-action="AddReview">Add a Review</button><br />
+}
+    <h1><a href="SubmitStories">Submit a story of your own!</a></h1>

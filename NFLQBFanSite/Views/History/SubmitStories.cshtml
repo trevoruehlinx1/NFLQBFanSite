@@ -1,0 +1,17 @@
+﻿<h1>NFL Quarterback Stories</h1>
+
+<h3>Here you can submit one of your favorite NFL QB eperiences!</h3>
+<form asp-action="AddSubmission" method="post">
+    <label for="name">Your Name:</label><br />
+    <input name="name" /><br />
+    <label for="qb">Favorite NFL QB:</label><br />
+    <input name="qb" /><br />
+    <label for="team">Favorite NFL Team:</label><br />
+    <input name="team" /><br />
+    <label for="title">Title:</label><br />
+    <input name="title" />
+
+    <label for="story">Your NFL Story:</label><br />
+    <textarea name="story" id="story" style="width:750px; height:300px;"></textarea><br />
+    <input type="submit" value="Submit" />        <button asp-action="ReadStories">Read Stories</button>
+</form>
